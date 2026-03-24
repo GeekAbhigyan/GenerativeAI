@@ -1,0 +1,14 @@
+### 2 / 21 -> Generative AI using LangChain
+
+-- langchain -> It is a open source framework that helps building LLM based applications
+It provides modular components and end to end tools that helps developers build complex AI
+application , such as chatbots , Retrival argumented generation (RAG)  , autonomous agents and more 
+
+-- supports all the major llms
+-- simplifies developing llm based applications 
+-- integrations available for all major tools 
+-- opensource , free , actively developed 
+-- supports all major genAI use cases 
+
+Langchain consists of -> Fundamentals , RAG , Agents 
+
